@@ -21,7 +21,7 @@ namespace JealTest
                     var s = words[index];
                     if (s.Length > 0)
                     {
-                        words[index] = s[0].ToString().ToUpper() + s.Substring(1);
+                        words[index] = s[0].ToString().ToUpper() + s.Substring(1).ToLower();
                     }
                 }
                 result = string.Join(" ", words);
