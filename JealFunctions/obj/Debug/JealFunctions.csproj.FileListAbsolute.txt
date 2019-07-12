@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\bin\Debug\Jeal.Library.dll
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\bin\Debug\Jeal.Library.pdb
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\JealFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\Jeal.Library.dll
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\Jeal.Library.pdb

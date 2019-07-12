@@ -1,0 +1,11 @@
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\bin\Debug\Jeal.Library.dll
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\bin\Debug\Jeal.Library.pdb
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\obj\Debug\Jeal.Library.csprojAssemblyReference.cache
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\obj\Debug\Jeal.Library.csproj.CoreCompileInputs.cache
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\obj\Debug\Jeal.Library.dll
+D:\GitHub\albertjosekurisummoottil\project-jeal\Jeal\Jeal.Library\obj\Debug\Jeal.Library.pdb
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\bin\Debug\Jeal.Library.dll
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\bin\Debug\Jeal.Library.pdb
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\Jeal.Library.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\Jeal.Library.dll
+C:\Users\Dell\Desktop\project-jeal-master\Jeal\Jeal.Library\obj\Debug\Jeal.Library.pdb
