@@ -1,21 +1,43 @@
-﻿using JealTest;
+using JealTest;
 using NUnit.Framework;
 
 namespace JealTests.UnitTests
 {
     [TestFixture]
     public class JealerTests
-    {  
+    {
 
         [Test]
-        public void CapitalNames_SmallLettersInput()
+        public void CapitalNames_AllSmallLetters()
         {
             // Arrange
-            string str = "preetam gautam uday"; 
+            string str = "mavis senaida letty";
             // Act
             string Answer = JFun.CapitalNames(str);
             // Assert
-            string Result = "Preetam Gautam Uday";
+            string Result = "Mavis Senaida Letty";
+            Assert.AreEqual(Result, Answer);
+        }
+
+        public void CapitalNames_CapitalAndSmallLetters()
+        {
+            // Arrange
+            string str = "SlyVia KrisTal ShariLyn CaLista";
+            // Act
+            string Answer = JFun.CapitalNames(str);
+            // Assert
+            string Result = "Slyvia Kristal Sharilyn Calista";
+            Assert.AreEqual(Result, Answer);
+        }
+
+        public void CapitalNames_CapitalLetters()
+        {
+            // Arrange
+            string str = "samuel MABELLE letitia meridith";
+            // Act
+            string Answer = JFun.CapitalNames(str);
+            // Assert
+            string Result = "Samuel Mabelle Letitia Meridith";
             Assert.AreEqual(Result, Answer);
         }
 
@@ -29,6 +51,6 @@ namespace JealTests.UnitTests
             // Assert            
             Assert.AreEqual("1/3", ReducedFract);
         }
-        
+
     }
 }
